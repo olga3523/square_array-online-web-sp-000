@@ -1,3 +1,3 @@
 def square_array(array)
-  square_array.each do# your code here
+  square_array.each do|array|# your code here
 end
