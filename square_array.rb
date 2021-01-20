@@ -1,3 +1,3 @@
 def square_array(array)
-   new_numbers#your code here
+   each.do|array|#your code here
 end
